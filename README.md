@@ -20,6 +20,23 @@ This multi-page web project raises awareness about endangered wildlife, ecosyste
 - `goal-protection.html`, `goal-habitats.html`, `goal-awareness.html`, `goal-technology.html` — Individual conservation goal pages
 
 
+## Repository Structure
+
+protecting-endangered-species/
+├── index.html
+├── campaign.html
+├── species/
+│   ├── elephant.html
+│   ├── tiger.html
+│   └── turtle.html
+├── goals/
+│   ├── goal-awareness.html
+│   ├── goal-habitats.html
+│   ├── goal-protection.html
+│   └── goal-technology.html
+├── .gitignore
+└── README.md
+
 ## How to Run Locally
 
 1. Clone or download the repository folder.
