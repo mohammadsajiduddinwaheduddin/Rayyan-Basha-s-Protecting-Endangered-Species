@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "Initial commit: Protecting Endangered Species web project (Grade 7 Competition 2026)"
+git branch -M main
